@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data
+data/
+*.zip
+*.tif
+*.tiff
+
+# Model checkpoints
+checkpoints/
+*.keras
+*.h5
+
+# Large local outputs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
